@@ -1,1 +1,1 @@
-sbt "run 9012"
+sbt "run $PORT"
