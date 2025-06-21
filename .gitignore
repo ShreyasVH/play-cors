@@ -3,3 +3,8 @@
 target
 project/target
 project/project
+dist/
+compile.log
+compile2.log
+server.log
+*.iml
