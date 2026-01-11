@@ -8,3 +8,4 @@ compile.log
 compile2.log
 server.log
 *.iml
+.bsp
